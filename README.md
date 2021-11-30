@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Developer/Software Developer Position. Entry Level or Internship
 - 🌱 I’m currently learning more about PHP & MYSQL.
 - 😎 I can comfortably code in HTML & CSS with Advanced JavaScript. I also have an advanced knowledge about SQL.
-- 📫 You can reach me at ... Libanomar122@gmail.com or (619)450-9965
+- 📫 You can reach me at ... Libanomar122@gmail.com
