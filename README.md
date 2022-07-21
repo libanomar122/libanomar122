@@ -4,4 +4,4 @@
 - 😎 I can comfortably code in HTML & CSS, Java, Python and JavaScript. I also have an advanced knowledge in SQL.
 - 📫 You can reach me at ... Libanomar122@gmail.com
 - 💻 I'm IT Specialist with Secret Clearance
-- 📚 I'm pursuing degree in Computer Information Technology B.S Expected 2023 - 2024
+- 📚 I'm pursuing degree in Computer Information Technology B.S Expected 2023
